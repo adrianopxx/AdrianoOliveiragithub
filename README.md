@@ -1,4 +1,4 @@
-## Olá! Eu sou o Adriano Oliveira 🖐️
+## Olá! Eu sou o Adriano Oliveira 🖖🏽
 
 Desenvolvedor em desenvolvimento !
 
