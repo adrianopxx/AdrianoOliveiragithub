@@ -3,7 +3,7 @@
 Desenvolvedor em desenvolvimento !
 
 
-![Adriano Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoOliveiragithub&show_icons=true&theme=radical)
+
 
 ## Tecnologias que eu uso no meu dia
 
